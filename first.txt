@@ -1,6 +1,0 @@
-Welcome to Yiring's secret gardon!
-这是第一次使用git。
-我就想试试diff命令
-了解stage的工作原理
-everytime I made some changes, I should use "git add" command to add the CHANGE to stage.
-"git commit" command can only commit the CHANGE in the stage.
